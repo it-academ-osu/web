@@ -1,0 +1,21 @@
+.top{
+	background-position: top;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 300px;
+	position: relative;
+}
+.menu{
+	position: absolute;
+	bottom: 0;
+	margin: 0px;
+	left: 20%;
+}
+.menu ul li{
+	list-style: none;
+	float: right;
+	font-size: 2em;
+	padding: 10px 15px;
+	background-color: #fff;
+	border: 1px solid grey;
+}
